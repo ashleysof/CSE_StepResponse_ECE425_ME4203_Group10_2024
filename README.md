@@ -6,7 +6,7 @@
 ![441430107_459569846575623_3833028285944773017_n](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161012750/258d0692-27d4-4bad-9bb2-8e230c06e13f)
 ![Screenshot 2024-05-09 215346](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161012750/96016e96-1e38-4c9e-836d-8f7fd5513c22)
 ![Screenshot 2024-05-09 215222](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161012750/d76b1930-1a26-4205-83f5-48eec1a81df2)
-no 7 - ASHLEY SOFUA V. BOO
+no 7 - ASHLEY SOFIA V. BOO
 ![Screenshot 2024-05-09 215124](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/a173a7c9-801a-4335-a308-7df1ce0232a7)
 ![091f2473-1bee-469e-9999-95a93d6afbf0 (2)](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/4be84400-52a7-47cc-8a54-9fdaa48ba276)
 ![53b40efb-5e91-4830-b93c-f5d68a4989db (2)](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/7b8b4f28-ff16-474b-8f9c-a00a688da63b)
