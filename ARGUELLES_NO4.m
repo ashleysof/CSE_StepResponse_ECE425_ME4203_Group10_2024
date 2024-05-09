@@ -6,6 +6,7 @@ close all
 %% First Order System
 % G(s) = 1 / (3s+1)
 
+
 b = 3;
 c = 1;
 
