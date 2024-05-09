@@ -16,3 +16,7 @@ no 8 - ASHLEY SOFIA V. BOO
 ![54735b10-139e-4713-9609-8a6f385c8635 (1)](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/21ffa787-62f6-4a0b-8c9e-e54168c2b3fc)
 ![e1cede25-de2d-467d-8347-3f0c6a52ad4f (2)](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/fa76e251-05de-4456-8ce5-6115b72fbd54)
 ![6424a1bd-6e62-4956-8e3e-d001ce6b6f3e](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/910bff63-54c9-4a1c-9dd4-6af9135b5ea4)
+![NO3_STEP RESPONSE](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/160557212/af942e84-03da-4fcb-b090-2f6b8b2b736c)
+![NO4_STEP RESPONSE](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/160557212/c1ac587e-499f-435c-ad8e-6084dde8d2c4)
+![NO3_SIMULINK](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/160557212/fac6f23f-d92f-4b93-b53e-b0061ac86c30)
+![NO4_SIMULINK](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/160557212/a4e027ab-4e7c-4ec1-a4f4-e846251ef096)
