@@ -20,6 +20,5 @@ no 8 - ASHLEY SOFIA V. BOO
 ![NO4_STEP RESPONSE](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/160557212/c1ac587e-499f-435c-ad8e-6084dde8d2c4)
 ![NO3_SIMULINK](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/160557212/fac6f23f-d92f-4b93-b53e-b0061ac86c30)
 ![NO4_SIMULINK](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/160557212/a4e027ab-4e7c-4ec1-a4f4-e846251ef096)
-![Figure_1](https://github.com/AlasAngel/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161011972/7191c970-859f-435d-af35-76baa2e7a927)
 ![Figure_1](https://github.com/AlasAngel/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161011972/7e604117-04b6-4655-99d8-d5f046f8b59e)
 
