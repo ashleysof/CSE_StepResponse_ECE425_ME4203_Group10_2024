@@ -16,3 +16,7 @@ NO-8 ASHLEY SOFIA V. BOO
 ![bb2bca75-3300-4d62-9d0b-203cc0b7e945](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/515f91de-1371-4cdc-8ef3-999e5e768673)
 ![49dec61b-da39-4916-81db-514c5c671092](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/d42d9349-09fa-4a98-a99b-44a3eef8710c)
 ![e311a3d0-21f1-4c2b-97ba-742d39b87dae](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/784ab685-c4d6-4c8e-975d-c16034850ada)
+![Figure_1](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161011972/68d49123-699e-4da3-bf98-6068df7865a0)
+![Figure_2](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161011972/f387175d-e559-4be5-bce3-e22a4ba99980)
+![Figure_3](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161011972/e0984576-1e12-4244-b18a-442fb6ea31a4)
+![Figure_4](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161011972/93b6f77d-7494-4446-b9c7-e94e61e62f8f)
