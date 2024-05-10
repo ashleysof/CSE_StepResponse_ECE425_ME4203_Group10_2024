@@ -5,3 +5,4 @@
 ![440872932_1887708485076178_7433042382900283088_n](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161012750/fd73e65a-917c-47e1-8d46-8004c03ec6d4)
 ![440830090_1826233974544657_3550877714847370485_n](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161012750/e6483d9c-88db-4515-a225-5114cb7d7fe6)
 ![Screenshot 2024-05-09 215346](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161012750/6824c6d2-4b24-4624-b978-444a7139a4bb)
+![Screenshot 2024-05-09 215222](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161012750/31907e94-fb37-4e8a-b268-c3b90fed5eb0)
