@@ -6,3 +6,13 @@
 ![440830090_1826233974544657_3550877714847370485_n](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161012750/e6483d9c-88db-4515-a225-5114cb7d7fe6)
 ![Screenshot 2024-05-09 215346](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161012750/6824c6d2-4b24-4624-b978-444a7139a4bb)
 ![Screenshot 2024-05-09 215222](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/161012750/31907e94-fb37-4e8a-b268-c3b90fed5eb0)
+NO-7 ASHLEY SOFIA V. BOO
+![7](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/835df702-b4b1-4fd7-8244-62c47e504a66)
+![96918bcd-ad1d-41d2-bf56-c13b9d70c15f](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/9b6aea54-c8b7-4f78-ab11-18f208b3ce47)
+![0ef6f697-0183-4288-b686-b194e4337cd0](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/c4a266fb-f612-40cf-8160-9b4850cb56d9)
+![6d1289d8-7a81-4b12-a441-ae1e5bcf8cd3](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/b65457b9-6e8c-4639-aab6-7215aa4a3450)
+NO-8 ASHLEY SOFIA V. BOO
+![8](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/61071d90-1c6a-4802-9970-74162bd24e6b)
+![bb2bca75-3300-4d62-9d0b-203cc0b7e945](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/515f91de-1371-4cdc-8ef3-999e5e768673)
+![49dec61b-da39-4916-81db-514c5c671092](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/d42d9349-09fa-4a98-a99b-44a3eef8710c)
+![e311a3d0-21f1-4c2b-97ba-742d39b87dae](https://github.com/ashleysof/CSE_StepResponse_ECE425_ME4203_Group10_2024/assets/159039911/784ab685-c4d6-4c8e-975d-c16034850ada)
